@@ -14,8 +14,6 @@ To sum up my experience: I found that Claude can code Flet apps quite well. Inje
 
 With vibe coding, I prefer concise code, as this helps me quickly check and correct generated code. Nothing I know beats FastHTML in that regard, but Flet is doing quite well.
 
-(written by [mitja](https://mitja.dev))
-
 ## Prerequisites
 
 - Python 3.12+
